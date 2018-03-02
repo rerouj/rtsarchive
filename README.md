@@ -1,4 +1,4 @@
-# rtsarchive
+# RTS archives
 Carte (visualisation) : Les archives de la RTS
 
 Visualisation géographique des productions de la RTS entre 1930 et 2001:
@@ -7,7 +7,7 @@ https://drive.google.com/openid=1Ncb3CagVh5UnCmzpkySgY8raXjI&usp=sharing
 
 Pour accéder aux notices, cliquez sur un des points, récupérez l'id dans le champ "media_id" et copiez l'id dans l'url suivante (à la place des crochets) :
 
-www.notrehistoire.ch/medias/{ici l'id}
+www.notrehistoire.ch/medias/ {ici l'id}
 
 Contexte :
 
